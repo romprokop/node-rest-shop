@@ -1,0 +1,5 @@
+../../../Documents/development/node/node-rest-shop/node_modules/
+.vscode/
+.tmp/
+dist/
+webpack.statistics.*

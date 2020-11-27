@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5318250-671b-48df-9ff6-9f7ef34851c8" name="Default Changelist" comment="" />
+    <list default="true" id="a5318250-671b-48df-9ff6-9f7ef34851c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kfDPU5RTcBSYMM0mjN6eQFeucd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,11 +36,21 @@
       <updated>1606082728886</updated>
       <workItem from="1606082731053" duration="5309000" />
       <workItem from="1606339904586" duration="2733000" />
-      <workItem from="1606477726997" duration="386000" />
+      <workItem from="1606477726997" duration="1313000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="497" key="Github.ShareDialog" timestamp="1606479301896">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="645" y="497" key="Github.ShareDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1606479301896" />
+    <state x="526" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1606479626174">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="526" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1606479626174" />
   </component>
 </project>
