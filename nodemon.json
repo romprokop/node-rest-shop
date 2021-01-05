@@ -1,6 +1,6 @@
 {
   "env": {
-    "MONGO_ATLAS_PW": "admin1234",
+    "MONGO_ATLAS_PW": "admin12345",
     "DB_NAME": "node-rest-shop"
   }
 }
