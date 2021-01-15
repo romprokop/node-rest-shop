@@ -6,6 +6,7 @@ import mongoose from 'mongoose';
 
 import productRoutes from './api/routes/products.js';
 import orderRoutes from './api/routes/orders.js';
+import userRoutes from './api/routes/user.js';
 
 mongoose.connect(
   `mongodb+srv://romprokop:${process.env.MONGO_ATLAS_PW}@node-rest-shop.2cpmv.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`,
@@ -37,6 +38,7 @@ app.use((req, res, next) => {
 // Routes which should handle requests
 app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
+app.use('/user', userRoutes);
 
 app.use((req, res, next) => {
   const error = new Error('Not found');
